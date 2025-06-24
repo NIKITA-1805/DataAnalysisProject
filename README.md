@@ -6,7 +6,7 @@ This project analyzes global COVID-19 data using SQL Server for data processing 
 
 - **SQL Queries**: Data cleaning, aggregation, and trend analysis using SQL Server
 - **Tableau Dashboard**: Visual representation of the data
-- **Data Source**: COVID-19 data from [Our World in Data](https://ourworldindata.org/coronavirus)
+- **Data Source**: COVID-19 data from [Our World in Data](https://ourworldindata.org/covid-deaths)
 
 ---
 
@@ -80,13 +80,6 @@ The Tableau dashboard presents:
 
 ---
 
-## 📚 Data Credits
-
-- **Data Source**: [Our World in Data – COVID-19 Dataset](https://github.com/owid/covid-19-data)
-- Data columns include: `location`, `date`, `total_cases`, `new_cases`, `total_deaths`, `new_deaths`, `population`, `new_vaccinations`, etc.
-
----
-
 ## ✨ Future Enhancements
 
 - Add vaccination analysis dashboard
@@ -97,5 +90,5 @@ The Tableau dashboard presents:
 
 ## 📩 Contact
 
-Created by **[Your Name]**  
+Created by **Nikita Jadhao**  
 If you found this helpful or have suggestions, feel free to open an issue or reach out!

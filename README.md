@@ -76,7 +76,7 @@ The Tableau dashboard presents:
 
 ## 📷 Preview
 
-![Dashboard Screenshot](Screenshot%20(19).png)
+![Dashboard Screenshot](Screenshot (19).png)
 
 ---
 
